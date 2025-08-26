@@ -1,0 +1,2 @@
+-- Purchases: Seed Data
+-- This file can be used to insert sample data if needed

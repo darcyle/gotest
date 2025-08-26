@@ -1,0 +1,6 @@
+starter/orders-system
+solution/
+.git/
+*.log
+.DS_Store
+.env.local
